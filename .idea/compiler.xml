@@ -9,12 +9,14 @@
         <module name="service-a" />
         <module name="service-a (1)" />
         <module name="service-b" />
+        <module name="transaction" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="service-a" target="1.8" />
       <module name="service-a (1)" target="1.8" />
       <module name="service-b" target="1.8" />
+      <module name="transaction" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
