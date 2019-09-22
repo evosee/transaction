@@ -1,6 +1,5 @@
 package com.example.demo.servicea.controller;
 
-import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author chensai
