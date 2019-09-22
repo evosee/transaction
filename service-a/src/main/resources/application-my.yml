@@ -1,7 +1,7 @@
 spring:
   datasource:
-    hikari:
-      jdbc-url: jdbc:mysql://192.168.132.129:3306/setpoint?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&autoReconnect=true
-      username: root
-      password: root
+    url: jdbc:mysql://192.168.142.130:3306/service_a?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&autoReconnect=true
+    username: root
+    password: root
+
 
